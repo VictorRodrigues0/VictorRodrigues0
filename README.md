@@ -16,8 +16,8 @@ I don't work as Developer, but i want. I'm studying to be a Developer Fullstack.
 
 #
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=LzK0&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LzK0&layout=compact&theme=dracula)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRodrigues0&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRodrigues0&layout=compact&theme=dracula)
 
 ##
 
