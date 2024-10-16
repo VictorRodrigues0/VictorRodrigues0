@@ -1,7 +1,3 @@
-Claro! Aqui está o texto organizado em português de um lado e em inglês do outro:
-
----
-
 ### Olá! Eu sou Victor Rodrigues / Hi! I'm Victor Rodrigues 👋👑
 
 #
