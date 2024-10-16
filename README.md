@@ -13,8 +13,8 @@ Recentemente decidi usar o GitHub e, bem, estou aqui agora. Pretendo postar todo
 
 Não trabalho como desenvolvedor, mas quero. Estou estudando para ser um desenvolvedor Fullstack.  |  I don't work as a Developer, but I want to. I'm studying to be a Fullstack Developer.
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRodrigues0&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRodrigues0&layout=compact&theme=dracula)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRodrigues0&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRodrigues0&layout=compact&theme=dark)
 
 ##
 
