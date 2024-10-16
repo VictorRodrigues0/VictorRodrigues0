@@ -7,11 +7,13 @@
 - Atualmente estou estudando no [Instituto Federal](https://ifrs.edu.br) (IF) / Rio Grande do Sul / Brasil  |  I'm currently studying at [Instituto Federal](https://ifrs.edu.br) (IF) / Rio Grande do Sul / Brazil
 - Estou no meu terceiro ano como técnico em informática integrado  |  I'm in my third year as an integrated IT technician
 
-<hr>
-
 Recentemente decidi usar o GitHub e, bem, estou aqui agora. Pretendo postar todos os meus projetos, atividades pessoais ou escolares, aqui.  |  I recently decided to use GitHub and well, I'm here now. I intend to post all my projects, personal or school activities, here.
 
 Não trabalho como desenvolvedor, mas quero. Estou estudando para ser um desenvolvedor Fullstack.  |  I don't work as a Developer, but I want to. I'm studying to be a Fullstack Developer.
+
+<hr>
+
+## ⬇️ Status ⬇️
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRodrigues0&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRodrigues0&layout=compact&theme=tokyonight)
