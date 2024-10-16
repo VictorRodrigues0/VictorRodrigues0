@@ -21,7 +21,7 @@ Não trabalho como desenvolvedor, mas quero. Estou estudando para ser um desenvo
 
 <hr>
 
-### ✔️ Minhas habilidades / My skills ✔️
+## ✔️ Minhas habilidades / My skills ✔️
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,7 +43,7 @@ Não trabalho como desenvolvedor, mas quero. Estou estudando para ser um desenvo
 
 <hr>
 
-### 📖 Estudando / Studying 📖
+## 📖 Estudando / Studying 📖
 
 <div style="display: inline_block"><br>
   
@@ -53,7 +53,7 @@ Não trabalho como desenvolvedor, mas quero. Estou estudando para ser um desenvo
 </div>
           <hr>
 
-### ✉️ Contato / Contact ✉️
+## ✉️ Contato / Contact ✉️
 
 <div>
 
