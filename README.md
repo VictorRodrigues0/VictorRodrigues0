@@ -1,4 +1,4 @@
-### Olá! Eu sou Victor Rodrigues / Hi! I'm Victor Rodrigues 👋👑
+### 👋👑 Olá! Eu sou Victor Rodrigues / Hi! I'm Victor Rodrigues 👋👑
 
 #
 
