@@ -41,6 +41,16 @@ Não trabalho como desenvolvedor, mas quero. Estou estudando para ser um desenvo
 
 ##
 
+### 📖 Estudando / Studying 📖
+
+<div style="display: inline_block"><br>
+  
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="70" />
+          
+</div>
+          
+
 ### ✉️ Contato / Contact ✉️
 
 <div>
