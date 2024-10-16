@@ -1,27 +1,28 @@
-### Hi! I'm Victor Rodrigues 👋👑
+Claro! Aqui está o texto organizado em português de um lado e em inglês do outro:
+
+---
+
+### Olá! Eu sou Victor Rodrigues / Hi! I'm Victor Rodrigues 👋👑
 
 #
 
-- I'm brazilian
-- 17y 
-- I'm currently studying in [Instituto Federal](https://ifrs.edu.br)  ( IF ) / Rio Grande do Sul / Brazil 
-- I'm in my third year as an integrated IT technician
+- Sou brasileiro / I'm Brazilian
+- 17 anos / 17y
+- Atualmente estou estudando no [Instituto Federal](https://ifrs.edu.br) (IF) / Rio Grande do Sul / Brasil / I'm currently studying at [Instituto Federal](https://ifrs.edu.br) (IF) / Rio Grande do Sul / Brazil
+- Estou no meu terceiro ano como técnico em informática integrado / I'm in my third year as an integrated IT technician
 
 #
 
-I recently decided to use GitHub and well, I'm here now. I intend to post all my projects, personal or school activities, here. 
+Recentemente decidi usar o GitHub e, bem, estou aqui agora. Pretendo postar todos os meus projetos, atividades pessoais ou escolares, aqui. / I recently decided to use GitHub and well, I'm here now. I intend to post all my projects, personal or school activities, here.
 
-
-I don't work as Developer, but i want. I'm studying to be a Developer Fullstack.
-
-#
+Não trabalho como desenvolvedor, mas quero. Estou estudando para ser um desenvolvedor Fullstack. / I don't work as a Developer, but I want to. I'm studying to be a Fullstack Developer.
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRodrigues0&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRodrigues0&layout=compact&theme=dracula)
 
 ##
 
-### My skills ✔️
+### Minhas habilidades / My skills ✔️
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,7 +44,7 @@ I don't work as Developer, but i want. I'm studying to be a Developer Fullstack.
 
 ##
 
-### Contact ✉️
+### Contato / Contact ✉️
 
 <div>
 
